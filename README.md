@@ -48,16 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
----
-
-## 🔥 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
----
-
 ## 📫 Get in Touch  
 - 📧 Email: prafullnile9@gmail.com  
 - 💼 LinkedIn:https://www.linkedin.com/in/prafulla-nile-1393602a5/
