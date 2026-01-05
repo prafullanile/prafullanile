@@ -1,16 +1,67 @@
-## Hi there 👋
 
-<!--
-**prafullanile/prafullanile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Prafull Nile  
 
-Here are some ideas to get you started:
+🎓 MCA Student | 💻 Python & ML Enthusiast | 🚀 Backend Developer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me  
+- Passionate about coding and building real-world applications  
+- Strong interest in **Python, Django, Flask, Machine Learning**  
+- Enjoy learning new technologies and solving problems  
+- Worked on projects like **AI-based Movie Recommendation System**
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Languages  
+- Python  
+- Java  
+- JavaScript  
+
+### ⚙️ Frameworks & Libraries  
+- Django  
+- Flask  
+- FastAPI  
+- NumPy, Pandas, matplotlib, Scikit-learn 
+
+### 🗄️ Databases  
+- MySQL  
+- MongoDB  
+- SQLite  
+
+### 🔧 Tools  
+- Git & GitHub  
+- VS Code
+  PyCharm   
+- Postman  
+
+
+---
+
+## 📌 Projects  
+- 🎬 **Movie Recommendation System** – ML, Flask, TF-IDF  
+- 📝 **Blog Website** – Django, Role-based Authentication
+- 🛒**E-commerce Website** - Flask, Sqlite3
+- 🎓 **Student Learning Portal** – Flask, MongoDB  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 📫 Get in Touch  
+- 📧 Email: prafullnile9@gmail.com  
+- 💼 LinkedIn:https://www.linkedin.com/in/prafulla-nile-1393602a5/
+- 🌐 Portfolio:## 
+
+---
+⭐ *Feel free to explore my repositories and connect with me!*
